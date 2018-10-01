@@ -1,5 +1,5 @@
 var playlist = {
-  Metllica: "Spit Out The Bone",
+  Metallica: "Spit Out The Bone",
   ["Lacuna Coil"]: "Swamped",
   Delain: "Not Enough"
 }
