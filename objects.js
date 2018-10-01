@@ -1,5 +1,5 @@
 var playlist = {
-  Slowdive: "song 2",
+  Metllica: "Enter Sandman",
   ["Phil Ochs"]: "song",
   ["My Bloody Valentine"]: "song 3"
 }
