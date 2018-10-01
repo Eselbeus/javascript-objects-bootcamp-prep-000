@@ -1,7 +1,7 @@
 var playlist = {
-  Metllica: "Enter Sandman",
-  ["Phil Ochs"]: "song",
-  ["My Bloody Valentine"]: "song 3"
+  Metllica: "Spit Out The Bone",
+  ["Lacuna Coil"]: "Swamped",
+  Delain: "Not Enough"
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
